@@ -644,14 +644,12 @@ Reliable counterfeit-medicine verification requires appropriate manufacturer, re
 
 ## 👩‍💻 Author
 
-**Anjali Vaibhav Palake**
+**Rutuja Rajendra Jadhav**
 
 Third-Year B.Tech Information Technology Student
 
 Government College of Engineering, Karad
 
-GitHub: [Anjali-Palake755](https://github.com/Anjali-Palake755)
-
-LinkedIn: [Anjali Palake](https://www.linkedin.com/in/anjali-palake-bb509a33)
+GitHub: [rutujaj1611-rgb](https://github.com/rutujaj1611-rgb)
 
 ---
